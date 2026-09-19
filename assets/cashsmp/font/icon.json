@@ -1,0 +1,10 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "cashsmp:_font/icon/pawn.png", "ascent": 7, "height": 7, "chars": [""] },
+    { "type": "bitmap", "file": "cashsmp:_font/icon/knight.png", "ascent": 7, "height": 7, "chars": [""] },
+    { "type": "bitmap", "file": "cashsmp:_font/icon/bishop.png", "ascent": 7, "height": 7, "chars": [""] },
+    { "type": "bitmap", "file": "cashsmp:_font/icon/rook.png", "ascent": 7, "height": 7, "chars": [""] },
+    { "type": "bitmap", "file": "cashsmp:_font/icon/queen.png", "ascent": 7, "height": 7, "chars": [""] },
+        { "type": "bitmap", "file": "cashsmp:_font/icon/king.png", "ascent": 7, "height": 7, "chars": [""] }
+  ]
+}

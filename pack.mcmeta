@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 64,
+    "description": "§aCash§6SMP §8by §bMaxeyTV",
+    "min_format":64,
+    "max_format":200,
+    "supported_formats": {
+      "min_inclusive": 64,
+      "max_inclusive": 200
+    }
+  }
+}
