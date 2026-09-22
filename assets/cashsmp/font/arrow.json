@@ -1,0 +1,148 @@
+{
+  "providers": [
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_n.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_nne.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_ne.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_ene.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_e.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_ese.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_es.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_sse.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_s.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_ssw.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_sw.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_wsw.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_w.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_wnw.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_nw.png",
+      "height": 12,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        ""
+      ],
+      "file": "cashsmp:_font/arrow/arrow_nnw.png",
+      "height": 12,
+      "type": "bitmap"
+    }
+  ]
+}
