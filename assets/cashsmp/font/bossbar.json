@@ -1,6 +1,12 @@
 {
   "providers": [
     {
+      "advances": {
+        " ": 4
+      },
+      "type": "space"
+    },
+    {
       "ascent": 8,
       "chars": [
         "",
